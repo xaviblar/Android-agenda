@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Tipo">
+        <item>SD</item>
+        <item>Interna</item>
+    </string-array>
+    <string-array name="tipo2">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
